@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cocproxy (1.0.0)
+    nokogiri (1.13.10-x86_64-linux)
+      racc (~> 1.4)
+    racc (1.6.1)
+    webrick (1.7.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  cocproxy (~> 1.0)
+  nokogiri
+  webrick
+
+BUNDLED WITH
+   2.2.33
